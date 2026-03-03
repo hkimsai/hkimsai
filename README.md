@@ -1,6 +1,6 @@
 # Hi, I'm Ha Young (Aaron) Kim
 
-> [🇰🇷 한국어 버전](github_profile_readme_kr.md)
+> [🇰🇷 한국어 버전](README_KR.md)
 
 **AI/ML Engineer** 
 
