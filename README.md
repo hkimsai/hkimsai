@@ -13,6 +13,8 @@ My recent work spans **medical imaging data pipelines**, **model quantization ac
 Most of my repositories are private (company/client IP). 
 I'll describe **what makes each project technically interesting** — the hard problems, the design trade-offs, and the engineering decisions.
 
+**Want to see a live demo?** I'm happy to walk through any of these projects — reach out via [email](mailto:aaronkim777@gmail.com) or [LinkedIn](https://www.linkedin.com/in/hyk1/).
+
 ---
 
 ## Featured Projects
@@ -80,8 +82,6 @@ Evaluation pipeline and INT8 quantization for a 632M-parameter ViT-SAM-H cell se
 - aaronkim777@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/hyk1/)
 - [arXiv Paper](https://arxiv.org/abs/2407.12514) · [IEEE Paper](https://ieeexplore.ieee.org/document/10352142)
-
-**Want to see a live demo?** I'm happy to walk through any of these projects — reach out via [email](mailto:aaronkim777@gmail.com) or [LinkedIn](https://www.linkedin.com/in/hyk1/).
 
 ---
 
