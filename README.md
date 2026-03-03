@@ -13,7 +13,7 @@ My recent work spans **medical imaging data pipelines**, **model quantization ac
 Most of my repositories are private (company/client IP). 
 I'll describe **what makes each project technically interesting** — the hard problems, the design trade-offs, and the engineering decisions.
 
-**Want to see a live demo?** I'm happy to walk through any of these projects — reach out via [email](mailto:aaronkim777@gmail.com) or [LinkedIn](https://www.linkedin.com/in/hyk1/).
+**Want to see a live demo?** I'm happy to walk through any of these projects — reach out via [aaronkim777@gmail.com](mailto:aaronkim777@gmail.com) or [[LinkedIn](https://www.linkedin.com/in/hyk1/)](https://www.linkedin.com/in/hyk1/).
 
 ---
 
