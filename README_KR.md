@@ -13,7 +13,7 @@
 대부분의 레포지토리는 회사/고객 IP로 인해 비공개입니다.
 **각 프로젝트에서 기술적으로 흥미로운 부분** — 어려운 문제, 설계 트레이드오프, 엔지니어링 결정을 설명하겠습니다.
 
-**라이브 데모를 보고 싶으시다면?** 각 프로젝트에 대해 직접 시연해 드릴 수 있습니다 — [이메일](mailto:aaronkim777@gmail.com) 또는 [LinkedIn](https://www.linkedin.com/in/hyk1/)으로 연락 주세요.
+**라이브 데모를 보고 싶으시다면?** 각 프로젝트에 대해 직접 시연해 드릴 수 있습니다 — [aaronkim777@gmail.com](mailto:aaronkim777@gmail.com) 또는 [https://www.linkedin.com/in/hyk1/](https://www.linkedin.com/in/hyk1/)으로 연락 주세요.
 
 ---
 
